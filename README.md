@@ -1,2 +1,2 @@
-# Rep_Eduardo_e-Luiz
+# Rep_Eduardo_e_Luiz
 ESTE É UM REPOSITÓRIO DE TESTE UTILIZANDO O GIT NO TERMINAL
